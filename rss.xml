@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[paulthomson]]></title>
         <description><![CDATA[paulthomson]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/paulthomson/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 22 Nov 2015 09:54:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 22 Nov 2015 09:55:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/paulthomson/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Love, Sex & Missed Connections]]></title>
+            <description><![CDATA[<article><h1>Love, Sex & Missed Connections</h1><p>This fantastic feature film was written by Kenny Stevenson and directed by Eric Kissack and is a wonderful comedic romance with a unique twist. A real ensemble treat with many of Kenny's friends from The Groundlings in LA, the film is winning awards all over the place - 9 International Film Festival awards so far! I had a blast working with the team, and got to play lots of real instruments myself on the score.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7d8023c0-ea08-4674-9885-84336c700c4c.jpg"></article>]]></description>
+            <link>https://thegrid.ai/paulthomson/love-sex-and-missed-connections/index.html</link>
+            <guid isPermaLink="false">dcd38282-55bb-46ac-afb6-75aa72a6f6a6</guid>
+            <pubDate>Sun, 22 Nov 2015 09:54:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Littlebigplanet 3]]></title>
             <description><![CDATA[<article><h1>Littlebigplanet 3</h1><p>Paul recently delivered the cinematics and a clutch of adaptive music tracks for LBP3, the hit PS4 title. Variously hailed as a 'showstopper' and winning rave reviews such as USGamer's 10/10, the new title has reached global sales of 1.3m as of Oct 2015!</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/193c00db-796f-4b46-88bd-71a07cfc5a25.png"></article>]]></description>
-            <link>undefinedlittlebigplanet-3/index.html</link>
+            <link>https://thegrid.ai/paulthomson/littlebigplanet-3/index.html</link>
             <guid isPermaLink="false">2316bdfa-0260-4ff3-a83f-e8a75ae49ca3</guid>
             <pubDate>Sun, 22 Nov 2015 09:53:54 GMT</pubDate>
         </item>
