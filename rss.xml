@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[paulthomson]]></title>
+        <description><![CDATA[paulthomson]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 22 Nov 2015 09:54:04 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Littlebigplanet 3]]></title>
+            <description><![CDATA[<article><h1>Littlebigplanet 3</h1><p>Paul recently delivered the cinematics and a clutch of adaptive music tracks for LBP3, the hit PS4 title. Variously hailed as a 'showstopper' and winning rave reviews such as USGamer's 10/10, the new title has reached global sales of 1.3m as of Oct 2015!</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/193c00db-796f-4b46-88bd-71a07cfc5a25.png"></article>]]></description>
+            <link>undefinedlittlebigplanet-3/index.html</link>
+            <guid isPermaLink="false">2316bdfa-0260-4ff3-a83f-e8a75ae49ca3</guid>
+            <pubDate>Sun, 22 Nov 2015 09:53:54 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
